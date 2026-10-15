@@ -1,0 +1,15 @@
+{
+  "name": "pstack-portable-pane",
+  "description": "A Claude Code mod that shows the intermediate artifacts of a poteto-mode-portable run in a pane.",
+  "owner": {
+    "name": "meganemura",
+    "url": "https://github.com/meganemura"
+  },
+  "plugins": [
+    {
+      "name": "pstack-portable-pane",
+      "source": "./plugin",
+      "description": "A pane beside the Claude Code transcript that shows the intermediate artifacts of a poteto-mode-portable run: its playbook, steps, delegates, and artifact files with a preview."
+    }
+  ]
+}

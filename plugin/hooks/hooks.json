@@ -1,0 +1,6 @@
+{
+  "description": "One hooks module: pstack-portable-pane, the pane that shows the intermediate artifacts of a poteto-mode-portable run.",
+  "modules": [
+    "./mod.ts"
+  ]
+}

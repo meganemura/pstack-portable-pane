@@ -1,0 +1,6 @@
+# The engine's API declarations, version-specific and large. See AGENTS.md for how to get them.
+plugin/.claude-plugin/types/
+
+node_modules/
+.env
+.env.*
