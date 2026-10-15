@@ -50,3 +50,7 @@ See [AGENTS.md](AGENTS.md). The design is in [docs/design.md](docs/design.md).
 ## License
 
 [MIT](LICENSE)
+
+---
+
+[Japanese](README.ja.md)

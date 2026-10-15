@@ -13,6 +13,7 @@ The plugin lives in `plugin/`. There is no build step and no runtime package dep
 
 The repository is public. Commit messages, comments, README and docs are in English.
 Follow ASD-STE100 Simplified Technical English. Test fixtures use invented paths and runs, never a real project's.
+`README.ja.md` is the one Japanese file. Keep it in sync with `README.md`, which ends with a link to it.
 
 ## Rules
 
